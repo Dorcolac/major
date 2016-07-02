@@ -1,0 +1,42 @@
+nav ul li a:hover {
+	color: yellow !important;
+	padding-left, padding-right: 10px !important;
+}
+
+footer div ul li a:hover {
+	color: yellow !important;
+}
+
+select {
+	height: 40px !important;
+}
+
+body {
+	font-family: 'Lato';
+	background-color: #00695c;
+}
+
+.navbar {
+	margin-bottom: 0 !important;
+}
+
+footer.pagefooter {
+	margin-top: 0;
+}
+
+.body-white {
+	padding-top: 20px;
+	padding-bottom: 20px;
+	width: 100%;
+	background-color: white !important;
+	height: auto;
+}
+
+.helper-button {
+	border-radius: 25px;
+	padding: 8px 16px;
+}
+
+.avatar-max-size {
+	max-width: 200px;
+}
